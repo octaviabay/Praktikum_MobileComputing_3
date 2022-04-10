@@ -1,0 +1,32 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id TimA
+id TimB
+id duapointA
+id duapointB
+id pointA
+id pointB
+id resetA
+id resetB
+id satupointA
+id satupointB
+id skorA
+id skorB
+id tigapointA
+id tigapointB
+layout activity_main
+layout activity_skor
+layout layoutskor
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.Praktikum2_Via
